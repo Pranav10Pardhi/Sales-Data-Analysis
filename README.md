@@ -1,2 +1,2 @@
-# Sales-Data-Analysis
-Interactive Dashboard using Ms-Excel  
+#Sales Data Analysis and Dashboard
+
