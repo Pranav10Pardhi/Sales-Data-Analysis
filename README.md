@@ -67,7 +67,7 @@ Percentage of Total Orders delivered
    Create New Columns (Optional but Helpful)
    Month, Quarter, Year from Transaction Date for trend analysis.
 - Progress 1.
-- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b98a70e9bd182035afd7f52eb678f5d0cd404bbf/Screenshot%202025-07-22%20105131.png)
+- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b98a70e9bd182035afd7f52eb678f5d0cd404bbf/Screenshot%202025-07-22%20105131.png) https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png
 - ![image alt]([image_url](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png))
 ## Key Performance Indicators (KPIs)
 Total Sales:
