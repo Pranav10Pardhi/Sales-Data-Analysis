@@ -8,56 +8,56 @@ The Retail Store wants to create an annual sales report for 2025. So that, the o
 ## Questions (KPIs)
 KPI Requirement Gathering: Critical Client Questions
 1. General Business Goals
-What are your main business objectives for this dashboard (e.g., monitoring sales, improving marketing, inventory planning)?
+  - What are your main business objectives for this dashboard (e.g., monitoring sales, improving marketing, inventory planning)?
 
-Who are the primary users of this dashboard (e.g., Sales Managers, Executives, Analysts)?
+  - Who are the primary users of this dashboard (e.g., Sales Managers, Executives, Analysts)?
 
 2. Sales Performance KPIs
-What key metrics define your sales performance?
+ - What key metrics define your sales performance?
 
-Total Sales?
+ - Total Sales?
 
-Average Order Value?
+ - Average Order Value?
 
-Number of Transactions?
+ - Number of Transactions?
 
-Quantity Sold?
+ - Quantity Sold?
 
-Do you want to track sales across different time periods (daily, monthly, quarterly, yearly)?
+ - Do you want to track sales across different time periods (daily, monthly, quarterly, yearly)?
 
-Should we include comparisons (e.g., MM, YYY, forecast vs actual)?
+ - Should we include comparisons (e.g., MM, YYY, forecast vs actual)?
 
 3. Category/Product Insights
-Do you want KPIs based on product categories or individual SKUs?
+ - Do you want KPIs based on product categories or individual SKUs?
 
-Should we include top-performing and least-performing product categories?
+ - Should we include top-performing and least-performing product categories?
 
-Is there a need to monitor inventory levels or only sales volume?
+ - Is there a need to monitor inventory levels or only sales volume?
 
 4. Customer & Payment Behavior
-Should we track KPIs based on payment methods (Cash, Credit Card, Digital Wallet)?
+ - Should we track KPIs based on payment methods (Cash, Credit Card, Digital Wallet)?
 
-Do you want to analyze online vs in-store sales separately?
+ - Do you want to analyze online vs in-store sales separately?
 
-Should we include metrics on customer segmentation (new vs returning, region-based, etc.)?
+ - Should we include metrics on customer segmentation (new vs returning, region-based, etc.)?
 
 5. Trend and Forecasting
-Do you want to track monthly/quarterly sales trends?
+ - Do you want to track monthly/quarterly sales trends?
 
-Is forecasting important for you? Should the dashboard predict future sales based on historical trends?
+ - Is forecasting important for you? Should the dashboard predict future sales based on historical trends?
 
 6. Custom KPIs / Business-Specific Metrics
-Are there any business-specific KPIs we need to include? (e.g., Discount Rate, Gross Margin, Return Rate)
+ - Are there any business-specific KPIs we need to include? (e.g., Discount Rate, Gross Margin, Return Rate)
 
-Do you want to include metrics on marketing campaigns or promotions?
+ - Do you want to include metrics on marketing campaigns or promotions?
 
 7. Visual & Technical Preferences
-What kind of visualization do you prefer for KPIs? (cards, graphs, gauges)
+ - What kind of visualization do you prefer for KPIs? (cards, graphs, gauges)
 
-Do you want filter options (e.g., by year, month, category, region)?
+ - Do you want filter options (e.g., by year, month, category, region)?
 
-What should be the frequency of data refresh (real-time, daily, weekly)?
-Percentage of Total Orders delivered
+ - What should be the frequency of data refresh (real-time, daily, weekly)?
+   Percentage of Total Orders delivered
 
 # Week 3
 ## Data Cleaning 
