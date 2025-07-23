@@ -68,7 +68,6 @@ Percentage of Total Orders delivered
    Month, Quarter, Year from Transaction Date for trend analysis.
 - Progress 1.
 - ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b98a70e9bd182035afd7f52eb678f5d0cd404bbf/Screenshot%202025-07-22%20105131.png)
--  Cleaned Data : <a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Book1.xlsx">Final Report with Data sets</a>
 ## Key Performance Indicators (KPIs)
 Total Sales:
 Average Sales (per transaction): 
@@ -78,7 +77,7 @@ Payment Mode Distribution : Online/Ofline
 Sales by Category Top 5
 Monthly Sales Trend (by Month Number)
 ##  Final Pivote Tables
-    ![image alt]( https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png).
+    ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png)
 ## Final Dashboard
 ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130147.png)
 ## Process
@@ -89,6 +88,7 @@ Monthly Sales Trend (by Month Number)
 ## Dashboard
 
 _________________photo
+- Final Report: <a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Book1.xlsx">Click Here Data sets</a>
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
