@@ -77,7 +77,7 @@ Payment Mode Distribution : Online/Ofline
 Sales by Category Top 5
 Monthly Sales Trend (by Month Number)
 ##  Final Pivote Tables
-    ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png)
+![image alt]([image_url](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png))
 ## Final Dashboard
 ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130147.png)
 ## Process
