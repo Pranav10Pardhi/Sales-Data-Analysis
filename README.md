@@ -1,7 +1,7 @@
 # Sales Data Analysis(Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The Retail Store wants to create an annual sales report for 2025. So that, the owner of the store can understand their customers and grow more sales in 2026 & 2027.
-# Week 1
+# Week 2
 ## Dataset  (Messy Data)   
 - <a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/retail_store_sales%20(1).csv">Messy_Data</a>
 
@@ -25,7 +25,7 @@ Quantity Sold?
 
 Do you want to track sales across different time periods (daily, monthly, quarterly, yearly)?
 
-Should we include comparisons (e.g., MoM, YoY, forecast vs actual)?
+Should we include comparisons (e.g., MM, YYY, forecast vs actual)?
 
 3. Category/Product Insights
 Do you want KPIs based on product categories or individual SKUs?
@@ -59,16 +59,16 @@ Do you want filter options (e.g., by year, month, category, region)?
 What should be the frequency of data refresh (real-time, daily, weekly)?
 Percentage of Total Orders delivered
 
-# Week 2
+# Week 3
 ## Data Cleaning 
 1.Handle Missing Values
    Price Per Unit:Some Values are filled using average price per item/category.
    Quantity is present but Total Spent is missing so we perform simple calculation Total = Quantity * Price.
    Create New Columns (Optional but Helpful)
    Month, Quarter, Year from Transaction Date for trend analysis.
-- Progress 1. <a href=["https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Book1.xlsx">Cleaned_Data</a>
-  https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-22%20105131.png?raw=true
-- Progress 2.<a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-22%20105131.png">Cleaned_Data</a>  
+- Progress 1.
+- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b98a70e9bd182035afd7f52eb678f5d0cd404bbf/Screenshot%202025-07-22%20105131.png)
+-  Cleaned Data : <a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Book1.xlsx">Final Report with Data sets</a>
 ## Key Performance Indicators (KPIs)
 Total Sales:
 Average Sales (per transaction): 
@@ -77,8 +77,10 @@ Total Number of Transactions:
 Payment Mode Distribution : Online/Ofline
 Sales by Category Top 5
 Monthly Sales Trend (by Month Number)
-
-Dashboard Interaction __________________link
+##  Final Pivote Tables
+    ![image alt]( https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png).
+## Final Dashboard
+![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130147.png)
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made consistent and clean with respect to data type, data format and values used.
