@@ -87,10 +87,8 @@ https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%20202
 - Made consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-## Dashboard
-
-_________________photo
-- Final Report: <a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Book1.xlsx">Click Here Data sets</a>
+## Final Report:
+<a href="https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b42105a74cd3bd1dd6821469fea951e723168a58/Legend%20Final.xlsx">Click Here Data sets</a>
 
 ## Project Insight
 - Peak Sales in December
