@@ -67,8 +67,7 @@ KPI Requirement Gathering: Critical Client Questions
    Create New Columns (Optional but Helpful)
    Month, Quarter, Year from Transaction Date for trend analysis.
 - Progress 1.
-- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b98a70e9bd182035afd7f52eb678f5d0cd404bbf/Screenshot%202025-07-22%20105131.png) https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png
-- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png))
+- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/b98a70e9bd182035afd7f52eb678f5d0cd404bbf/Screenshot%202025-07-22%20105131.png) 
 ## Key Performance Indicators (KPIs)
 Total Sales:
 Average Sales (per transaction): 
@@ -77,10 +76,12 @@ Total Number of Transactions:
 Payment Mode Distribution : Online/Ofline
 Sales by Category Top 5
 Monthly Sales Trend (by Month Number)
+- Progress 2
 ##  Final Pivote Tables
-![image alt]([image_url](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png)) https://github.com/Pranav10Pardhi/Sales-Data-
+https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png
+- ![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png))
 ## Final Dashboard
-![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/commit/037cf0a747aa46eda470698ee7ffd6d785025f2c)
+- ![image alt](https://raw.githubusercontent.com/Pranav10Pardhi/Sales-Data-Analysis/037cf0a747aa46eda470698ee7ffd6d785025f2c/Screenshot%202025-07-24%20130708.png)
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made consistent and clean with respect to data type, data format and values used.
