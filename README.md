@@ -80,7 +80,7 @@ Monthly Sales Trend (by Month Number)
 ##  Final Pivote Tables
 ![image alt]([image_url](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130558.png)) https://github.com/Pranav10Pardhi/Sales-Data-
 ## Final Dashboard
-![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/blob/main/Screenshot%202025-07-23%20130147.png)
+![image alt](https://github.com/Pranav10Pardhi/Sales-Data-Analysis/commit/037cf0a747aa46eda470698ee7ffd6d785025f2c)
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made consistent and clean with respect to data type, data format and values used.
